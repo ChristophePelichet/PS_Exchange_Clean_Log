@@ -1,0 +1,7 @@
+﻿<?xml version="1.0"?>
+<configuration>
+	<appSettings>
+		<!-- Jours de rétention -->
+		<add Key="RetentionDay" 		Value="7"/>
+	</appSettings>
+</configuration>
